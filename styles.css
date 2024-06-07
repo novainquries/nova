@@ -58,44 +58,6 @@
         object-fit: cover;
     }
     
-    .featured {
-        background-color: #000;
-        color: #fff;
-        padding: 50px 0;
-        text-align: center;
-    }
-    
-    .featured h2 {
-        margin-bottom: 30px;
-        font-size: 24px;
-    }
-    
-    .product-row {
-        display: flex;
-        justify-content: space-around;
-        margin-bottom: 30px;
-    }
-    
-    .product {
-        flex: 1;
-        margin: 0 10px;
-    }
-
-    .product:hover {
-        transition: 0.5s ease;
-        background-color: #ff0000;
-    }
-    
-    .product img {
-        width: 100%; 
-        height: auto;
-    }
-    
-    .product p {
-        margin-top: 10px;
-        font-size: 16px;
-    }
-    
     /* Footer */
     
     .container{
